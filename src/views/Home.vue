@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-  <div>test</div>
     <div class="bgc-box" :style="bgUrl"></div>
 
     <div class="box" style="width:100%">
